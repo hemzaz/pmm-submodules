@@ -1,0 +1,3 @@
+deps:
+  - name: mysqld_exporter
+    branch: PMM-12153-upgrade-mysql-exporter
