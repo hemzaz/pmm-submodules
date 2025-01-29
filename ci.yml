@@ -1,0 +1,4 @@
+deps:
+  - name: pmm
+    url: https://github.com/hemzaz/pmm
+    branch: main
